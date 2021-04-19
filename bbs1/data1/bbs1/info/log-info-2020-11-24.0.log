@@ -1,0 +1,121 @@
+2020-11-24 10:33:42,872 INFO [restartedMain] c.j.b.BBS1Application [StartupInfoLogger.java:55] Starting BBS1Application on localhost with PID 11420 (C:\JavaEE304\bbs1\target\classes started by maxti in C:\JavaEE304\bbs1)
+2020-11-24 10:33:42,888 INFO [restartedMain] c.j.b.BBS1Application [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-11-24 10:33:42,997 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:225] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-24 10:33:42,997 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:225] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-24 10:33:44,012 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:91] Tomcat initialized with port(s): 8080 (http)
+2020-11-24 10:33:44,012 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-24 10:33:44,012 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2020-11-24 10:33:44,012 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-11-24 10:33:44,106 INFO [restartedMain] o.a.c.c.C.[.[.[/bbs1] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2020-11-24 10:33:44,106 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:283] Root WebApplicationContext: initialization completed in 1109 ms
+2020-11-24 10:33:44,590 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-24 10:33:44,653 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2020-11-24 10:33:44,793 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:58] LiveReload server is running on port 35729
+2020-11-24 10:33:44,809 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2020-11-24 10:33:44,840 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:203] Tomcat started on port(s): 8080 (http) with context path '/bbs1'
+2020-11-24 10:33:44,840 INFO [restartedMain] c.j.b.BBS1Application [StartupInfoLogger.java:61] Started BBS1Application in 2.562 seconds (JVM running for 4.1)
+2020-11-24 11:01:12,065 INFO [restartedMain] c.j.b.BBS1Application [StartupInfoLogger.java:55] Starting BBS1Application on localhost with PID 12852 (C:\JavaEE304\bbs1\target\classes started by maxti in C:\JavaEE304\bbs1)
+2020-11-24 11:01:12,071 INFO [restartedMain] c.j.b.BBS1Application [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-11-24 11:01:12,204 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:225] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-24 11:01:12,204 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:225] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-24 11:01:13,630 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:91] Tomcat initialized with port(s): 8080 (http)
+2020-11-24 11:01:13,645 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-24 11:01:13,646 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2020-11-24 11:01:13,646 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-11-24 11:01:13,762 INFO [restartedMain] o.a.c.c.C.[.[.[/bbs1] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2020-11-24 11:01:13,762 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:283] Root WebApplicationContext: initialization completed in 1558 ms
+2020-11-24 11:01:14,325 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-24 11:01:14,392 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2020-11-24 11:01:14,542 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:58] LiveReload server is running on port 35729
+2020-11-24 11:01:14,569 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2020-11-24 11:01:14,592 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:203] Tomcat started on port(s): 8080 (http) with context path '/bbs1'
+2020-11-24 11:01:14,595 INFO [restartedMain] c.j.b.BBS1Application [StartupInfoLogger.java:61] Started BBS1Application in 3.489 seconds (JVM running for 5.798)
+2020-11-24 11:01:42,135 INFO [http-nio-8080-exec-2] o.a.c.c.C.[.[.[/bbs1] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-24 11:01:42,135 INFO [http-nio-8080-exec-2] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2020-11-24 11:01:42,143 INFO [http-nio-8080-exec-2] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 7 ms
+2020-11-24 11:01:42,199 INFO [http-nio-8080-exec-2] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2020-11-24 11:01:42,304 INFO [http-nio-8080-exec-2] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2020-11-24 11:02:53,803 INFO [restartedMain] c.j.b.BBS1Application [StartupInfoLogger.java:55] Starting BBS1Application on localhost with PID 17448 (C:\JavaEE304\bbs1\target\classes started by maxti in C:\JavaEE304\bbs1)
+2020-11-24 11:02:53,810 INFO [restartedMain] c.j.b.BBS1Application [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-11-24 11:02:53,978 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:225] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-24 11:02:53,979 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:225] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-24 11:02:55,724 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:91] Tomcat initialized with port(s): 8080 (http)
+2020-11-24 11:02:55,735 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-24 11:02:55,736 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2020-11-24 11:02:55,737 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-11-24 11:02:55,859 INFO [restartedMain] o.a.c.c.C.[.[.[/bbs1] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2020-11-24 11:02:55,860 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:283] Root WebApplicationContext: initialization completed in 1880 ms
+2020-11-24 11:02:56,492 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-24 11:02:56,567 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2020-11-24 11:02:56,744 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:58] LiveReload server is running on port 35729
+2020-11-24 11:02:56,776 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2020-11-24 11:02:56,809 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:203] Tomcat started on port(s): 8080 (http) with context path '/bbs1'
+2020-11-24 11:02:56,815 INFO [restartedMain] c.j.b.BBS1Application [StartupInfoLogger.java:61] Started BBS1Application in 3.981 seconds (JVM running for 6.149)
+2020-11-24 11:03:01,069 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/bbs1] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-24 11:03:01,069 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2020-11-24 11:03:01,074 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 5 ms
+2020-11-24 11:03:01,118 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2020-11-24 11:03:01,224 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2020-11-24 11:05:09,378 INFO [restartedMain] c.j.b.BBS1Application [StartupInfoLogger.java:55] Starting BBS1Application on localhost with PID 18308 (C:\JavaEE304\bbs1\target\classes started by maxti in C:\JavaEE304\bbs1)
+2020-11-24 11:05:09,385 INFO [restartedMain] c.j.b.BBS1Application [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-11-24 11:05:09,560 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:225] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-24 11:05:09,560 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:225] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-24 11:05:11,212 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:91] Tomcat initialized with port(s): 8080 (http)
+2020-11-24 11:05:11,224 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-24 11:05:11,225 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2020-11-24 11:05:11,225 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-11-24 11:05:11,350 INFO [restartedMain] o.a.c.c.C.[.[.[/bbs1] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2020-11-24 11:05:11,351 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:283] Root WebApplicationContext: initialization completed in 1790 ms
+2020-11-24 11:05:12,071 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-24 11:05:12,159 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2020-11-24 11:05:12,335 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:58] LiveReload server is running on port 35729
+2020-11-24 11:05:12,363 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2020-11-24 11:05:12,390 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:203] Tomcat started on port(s): 8080 (http) with context path '/bbs1'
+2020-11-24 11:05:12,393 INFO [restartedMain] c.j.b.BBS1Application [StartupInfoLogger.java:61] Started BBS1Application in 3.798 seconds (JVM running for 5.834)
+2020-11-24 11:05:16,363 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/bbs1] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-24 11:05:16,363 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2020-11-24 11:05:16,368 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 4 ms
+2020-11-24 11:05:16,412 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2020-11-24 11:05:16,521 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2020-11-24 11:18:12,395 INFO [restartedMain] c.j.b.BBS1Application [StartupInfoLogger.java:55] Starting BBS1Application on localhost with PID 17540 (C:\JavaEE304\bbs1\target\classes started by maxti in C:\JavaEE304\bbs1)
+2020-11-24 11:18:12,402 INFO [restartedMain] c.j.b.BBS1Application [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-11-24 11:18:12,545 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:225] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-24 11:18:12,546 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:225] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-24 11:18:13,864 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:91] Tomcat initialized with port(s): 8080 (http)
+2020-11-24 11:18:13,874 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-24 11:18:13,875 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2020-11-24 11:18:13,875 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-11-24 11:18:13,985 INFO [restartedMain] o.a.c.c.C.[.[.[/bbs1] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2020-11-24 11:18:13,985 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:283] Root WebApplicationContext: initialization completed in 1439 ms
+2020-11-24 11:18:14,619 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-24 11:18:14,694 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2020-11-24 11:18:14,858 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:58] LiveReload server is running on port 35729
+2020-11-24 11:18:14,883 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2020-11-24 11:18:14,908 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:203] Tomcat started on port(s): 8080 (http) with context path '/bbs1'
+2020-11-24 11:18:14,911 INFO [restartedMain] c.j.b.BBS1Application [StartupInfoLogger.java:61] Started BBS1Application in 3.303 seconds (JVM running for 5.348)
+2020-11-24 11:19:04,016 INFO [http-nio-8080-exec-2] o.a.c.c.C.[.[.[/bbs1] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-24 11:19:04,016 INFO [http-nio-8080-exec-2] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2020-11-24 11:19:04,023 INFO [http-nio-8080-exec-2] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 6 ms
+2020-11-24 11:19:04,080 INFO [http-nio-8080-exec-2] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2020-11-24 11:19:04,184 INFO [http-nio-8080-exec-2] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2020-11-24 11:20:52,103 INFO [restartedMain] c.j.b.BBS1Application [StartupInfoLogger.java:55] Starting BBS1Application on localhost with PID 10752 (C:\JavaEE304\bbs1\target\classes started by maxti in C:\JavaEE304\bbs1)
+2020-11-24 11:20:52,110 INFO [restartedMain] c.j.b.BBS1Application [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-11-24 11:20:52,336 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:225] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-24 11:20:52,336 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:225] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-24 11:20:54,039 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:91] Tomcat initialized with port(s): 8080 (http)
+2020-11-24 11:20:54,052 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-24 11:20:54,053 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2020-11-24 11:20:54,053 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-11-24 11:20:54,191 INFO [restartedMain] o.a.c.c.C.[.[.[/bbs1] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2020-11-24 11:20:54,192 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:283] Root WebApplicationContext: initialization completed in 1855 ms
+2020-11-24 11:20:54,867 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-24 11:20:54,968 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2020-11-24 11:20:55,173 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:58] LiveReload server is running on port 35729
+2020-11-24 11:20:55,202 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2020-11-24 11:20:55,231 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:203] Tomcat started on port(s): 8080 (http) with context path '/bbs1'
+2020-11-24 11:20:55,235 INFO [restartedMain] c.j.b.BBS1Application [StartupInfoLogger.java:61] Started BBS1Application in 4.089 seconds (JVM running for 6.397)
+2020-11-24 11:21:03,893 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/bbs1] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-24 11:21:03,894 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2020-11-24 11:21:03,901 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 7 ms
+2020-11-24 11:21:03,960 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2020-11-24 11:21:04,059 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.

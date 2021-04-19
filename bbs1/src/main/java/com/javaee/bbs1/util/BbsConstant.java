@@ -1,0 +1,32 @@
+package com.javaee.bbs1.util;
+
+/**
+ * @author: tianzihe
+ * @date: 2020/10/20 - 15:17
+ * @mail: maxtian123@hotmail.com
+ * @info:
+ */
+public interface BbsConstant {
+
+    int ACTIVATION_SUCCESS = 0;
+
+    int ACTIVATION_REPEAT = 1;
+
+    int ACTIVATION_FAILURE = 2;
+
+    int DEFAULT_EXPIRED_SECONDS = 3600*12;
+
+    int REMEMBER_EXPIRED_SECONDS = 3600*24*100;
+
+    /**
+     * 实体类型常量：帖子
+     */
+    int ENTITY_TYPE_POST = 1;
+
+    /**
+     * 实体类型常量：评论
+     */
+    int ENTITY_TYPE_COMMIT = 2;
+
+
+}
